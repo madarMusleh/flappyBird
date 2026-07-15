@@ -1,5 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cb2cc7d-b170-43ca-a79f-136b7500123f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.flappyBird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.flappyBird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Bird.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Bird.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Player.cs.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;madarMusleh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/madarMusleh/flappyBird.git&quot;,
+    &quot;accountId&quot;: &quot;c72b6cd8-d267-49f1-b5e2-c6c893fecda7&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Player/scripts/PlayerJumping.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.00000000044949" />
+      <entry key="S2" value="1.005353218773751" />
+      <entry key="S5" value="1.1762891788992267" />
+      <entry key="S10" value="1.6402811408612261" />
+      <entry key="S30" value="2.7775255210286733" />
+      <entry key="S60" value="3.8692322854335606" />
+      <entry key="M2" value="5.518379112123721" />
+      <entry key="M5" value="7.635983746825587" />
+      <entry key="M10" value="8.692241808545935" />
+      <entry key="M15" value="9.09736697184995" />
+      <entry key="M30" value="9.53250464077243" />
+      <entry key="H1" value="9.762053984049661" />
+      <entry key="H2" value="9.879957561734678" />
+      <entry key="H4" value="9.939708901173185" />
+      <entry key="D1" value="9.98991378421858" />
+      <entry key="W1" value="9.998558185952701" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="8.057830182375777E-78" />
+      <entry key="MS500" value="3.8127964627221597E-16" />
+      <entry key="S2" value="1.3973683601058162E-4" />
+      <entry key="S5" value="0.02871602760872031" />
+      <entry key="S10" value="0.16945804085000013" />
+      <entry key="S30" value="0.5533765189012609" />
+      <entry key="S60" value="0.743892814121269" />
+      <entry key="M2" value="0.8624922110496239" />
+      <entry key="M5" value="0.942544953935804" />
+      <entry key="M10" value="0.9708475441261643" />
+      <entry key="M15" value="0.9804693551878342" />
+      <entry key="M30" value="0.9901865254525708" />
+      <entry key="H1" value="0.9950811652586791" />
+      <entry key="H2" value="0.9975375508013112" />
+      <entry key="H4" value="0.9987680165089947" />
+      <entry key="D1" value="0.9997945639371223" />
+      <entry key="W1" value="0.9999706494067719" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.702567952087896E-4" />
+      <entry key="MS500" value="0.17628724508212376" />
+      <entry key="S2" value="0.6504215563137026" />
+      <entry key="S5" value="0.9864475659944059" />
+      <entry key="S10" value="1.6007275327051054" />
+      <entry key="S30" value="3.1811244286401887" />
+      <entry key="S60" value="4.514975194802912" />
+      <entry key="M2" value="6.321397244548957" />
+      <entry key="M5" value="8.550660191053781" />
+      <entry key="M10" value="9.648242411698071" />
+      <entry key="M15" value="10.067712536132083" />
+      <entry key="M30" value="10.517509894827343" />
+      <entry key="H1" value="10.754513384874867" />
+      <entry key="H2" value="10.876176280792825" />
+      <entry key="H4" value="10.937815493074583" />
+      <entry key="D1" value="10.989597829896837" />
+      <entry key="W1" value="10.998513040135409" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3GCqGkK19ZckcJlHI9LNl06lvxe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="D:\unity\Editor\Unity.exe" />
@@ -37,5 +178,71 @@
     <configuration name="Attach to" type="UnityDevicePlayer" factoryName="UnityAttachToDevicePlayer">
       <method v="2" />
     </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cb2cc7d-b170-43ca-a79f-136b7500123f" name="Changes" comment="" />
+      <created>1783485807152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783485807152</updated>
+      <workItem from="1783485816119" duration="172000" />
+      <workItem from="1784101540048" duration="1126000" />
+    </task>
+    <task id="LOCAL-00001" summary="add the assets">
+      <option name="closed" value="true" />
+      <created>1783485943076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783485943077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="add the assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the assets" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
